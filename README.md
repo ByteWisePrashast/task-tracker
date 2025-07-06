@@ -64,13 +64,17 @@ This project is part of an intern pre-hire assignment. It allows users to log in
 👉🔗 [Click here to see the deployed app](https://task-tracker-prashast.netlify.app/)
 ---
 
-## 🖼 Screenshots
+## 📸 Screenshots
 
-_Add screenshots of your app here!_
+### 🌕 Light Mode
+![Light Mode](./screenshots/light-mode.png)
 
-```
-![Screenshot](./screenshots/dashboard.png)
-```
+### 🌑 Dark Mode
+![Dark Mode](./screenshots/dark-mode.png)
+
+### ✅ Task Management Features
+![Tasks View](./screenshots/tasks-view.png)
+
 
 ---
 
