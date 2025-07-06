@@ -61,9 +61,7 @@ This project is part of an intern pre-hire assignment. It allows users to log in
 
 ## 🔗 Live Demo
 
-👉 [Click here to see the deployed app](#)  
-   https://task-tracker-prashast.netlify.app/
-
+👉🔗 [Click here to see the deployed app](https://task-tracker-prashast.netlify.app/)
 ---
 
 ## 🖼 Screenshots
